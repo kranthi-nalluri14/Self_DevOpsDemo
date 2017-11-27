@@ -62,7 +62,7 @@ public class ProductBean implements Serializable
    {
       this.id = id;
    }
-
+   System.out.println("kranthi");
    private Product product;
 
    public Product getProduct()
